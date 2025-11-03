@@ -1,5 +1,5 @@
 
-![test badge](https://github.com/Just1A2Noob/learn-cicd-starter/actions/workflows/ci.yaml/badge.svg)
+[![ci](https://github.com/Just1a2Noob/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/Just1a2Noob/learn-cicd-starter/actions/workflows/ci.yml)
 
 
 # learn-cicd-starter (Notely)
